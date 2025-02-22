@@ -1,0 +1,14 @@
+{
+  "busstop": [
+    {"bus_stop_id": "ADB354000076", bus_stop_name: "신덕1리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000077", bus_stop_name: "나천", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000078", bus_stop_name: "골삽실", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000079", bus_stop_name: "금곡(길안)", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000080", bus_stop_name: "대사.토일", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000081", bus_stop_name: "마사리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000082", bus_stop_name: "백자리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000083", bus_stop_name: "송사", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000084", bus_stop_name: "오락", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
+    {"bus_stop_id": "ADB354000085", bus_stop_name: "유곡", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"}
+  ]
+}

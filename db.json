@@ -1,5 +1,5 @@
 {
-  "bus-stop": [
+  "busstop": [
     {"bus_stop_id": "ADB354000076", "bus_stop_name": "신덕1리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
     {"bus_stop_id": "ADB354000077", "bus_stop_name": "나천", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
     {"bus_stop_id": "ADB354000078", "bus_stop_name": "골삽실", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},

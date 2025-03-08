@@ -152,5 +152,36 @@
       "current_page_count": 20,
       "current_page_number": 0
     }
+  },
+  "busarrival": {
+    "code": 200,
+    "status": "OK",
+    "message": "success",
+    "data": [
+      {
+        "busStopId": "DJB8001793",
+        "busStopName": "송강전통시장",
+        "routeType": "급행버스",
+        "vehicleType": "일반차량"
+      },
+      {
+        "busStopId": "DJB8001793",
+        "busStopName": "송강전통시장",
+        "routeType": "마을버스",
+        "vehicleType": "일반차량"
+      },
+      {
+        "busStopId": "DJB8001793",
+        "busStopName": "송강전통시장",
+        "routeType": "간선버스",
+        "vehicleType": "일반차량"
+      },
+      {
+        "busStopId": "DJB8001793",
+        "busStopName": "송강전통시장",
+        "routeType": "간선버스",
+        "vehicleType": "저상버스"
+      }
+    ]
   }
 }

@@ -162,25 +162,21 @@
         "busStopId": "DJB8001793",
         "busStopName": "송강전통시장",
         "routeType": "급행버스",
-        "vehicleType": "일반차량"
-      },
-      {
-        "busStopId": "DJB8001793",
-        "busStopName": "송강전통시장",
-        "routeType": "마을버스",
-        "vehicleType": "일반차량"
-      },
-      {
-        "busStopId": "DJB8001793",
-        "busStopName": "송강전통시장",
-        "routeType": "간선버스",
-        "vehicleType": "일반차량"
+        "vehicleType": "저상버스",
+        "arrivePrevStationCnt": 4,
+        "arriveSeconds": 370,
+        "routeId": "DJB30300002",
+        "routeNo": "2"
       },
       {
         "busStopId": "DJB8001793",
         "busStopName": "송강전통시장",
         "routeType": "간선버스",
-        "vehicleType": "저상버스"
+        "vehicleType": "일반차량",
+        "arrivePrevStationCnt": 0,
+        "arriveSeconds": 0,
+        "routeId": "DJB30300093",
+        "routeNo": "802"
       }
     ]
   }

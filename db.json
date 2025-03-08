@@ -3,44 +3,154 @@
     "code": 200,
     "status": "OK",
     "message": "success",
-    "data": [
-      {"bus_stop_id": "ADB354000076", "bus_stop_name": "신덕1리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000077", "bus_stop_name": "나천", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000078", "bus_stop_name": "골삽실", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000079", "bus_stop_name": "금곡(길안)", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000080", "bus_stop_name": "대사.토일", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000081", "bus_stop_name": "마사리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000082", "bus_stop_name": "백자리", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000083", "bus_stop_name": "송사", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000084", "bus_stop_name": "오락", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000085", "bus_stop_name": "유곡", "city_code": "37040", "city": "안동" , "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000103", "bus_stop_name": "이천1리", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000104", "bus_stop_name": "이천", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000059", "bus_stop_name": "이천", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000060", "bus_stop_name": "이천1리", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354000974", "bus_stop_name": "이천동석불상", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "ADB354001029", "bus_stop_name": "이천동석불상", "city_code": "37040", "city": "안동", "detail_city": "경상북도 안동시"},
-      {"bus_stop_id": "BSB196630101", "bus_stop_name": "이천", "city_code": "21", "city": "부산", "detail_city": "부산광역시"},
-      {"bus_stop_id": "BSB196630102", "bus_stop_name": "이천", "city_code": "21", "city": "부산", "detail_city": "부산광역시"},
-      {"bus_stop_id": "BSB196640201", "bus_stop_name": "이천", "city_code": "21", "city": "부산", "detail_city": "부산광역시"},
-      {"bus_stop_id": "BSB196640202", "bus_stop_name": "이천", "city_code": "21", "city": "부산", "detail_city": "부산광역시"},
-      {"bus_stop_id": "CGB4949", "bus_stop_name": "이천치안센터건너", "city_code": "37390", "city": "칠곡", "detail_city": "경상북도 칠곡군"},
-      {"bus_stop_id": "CGB4951", "bus_stop_name": "이천새마을금고건너", "city_code": "37390", "city": "칠곡", "detail_city": "경상북도 칠곡군"},
-      {"bus_stop_id": "DGB7061056600", "bus_stop_name": "이천동(종점)", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "DGB7061056700", "bus_stop_name": "이천동", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "DGB7111008900", "bus_stop_name": "이천리(시내방향)", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "DGB7111009000", "bus_stop_name": "이천리(시외방향)", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "DGB7051010400", "bus_stop_name": "이천새마을금고건너", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "DGB7051010500", "bus_stop_name": "이천치안센터건너", "city_code": "22", "city": "대구", "detail_city": "대구광역시"},
-      {"bus_stop_id": "KJB7977", "bus_stop_name": "이천(리)1구", "city_code": "24", "city": "광주", "detail_city": "광주광역시"},
-      {"bus_stop_id": "KJB7978", "bus_stop_name": "이천(리)1구", "city_code": "24", "city": "광주", "detail_city": "광주광역시"},
-      {"bus_stop_id": "KYB328010984", "bus_stop_name": "이천", "city_code": "36060", "city": "광양", "detail_city": "전라남도 광양시"},
-      {"bus_stop_id": "KYB328011004", "bus_stop_name": "이천", "city_code": "36060", "city": "광양", "detail_city": "전라남도 광양시"},
-      {"bus_stop_id": "GGB229000210", "bus_stop_name": "이천1리", "city_code": "31200", "city": "경기", "detail_city": "경기도 파주시"},
-      {"bus_stop_id": "GGB229000211", "bus_stop_name": "이천1리.중간말", "city_code": "31200", "city": "경기", "detail_city": "경기도 파주시"},
-      {"bus_stop_id": "GGB229000212", "bus_stop_name": "이천3리", "city_code": "31200", "city": "경기", "detail_city": "경기도 파주시"},
-      {"bus_stop_id": "GGB230000003", "bus_stop_name": "이천터미널", "city_code": "31210", "city": "경기", "detail_city": "경기도 이천시"},
-      {"bus_stop_id": "GGB230000152", "bus_stop_name": "이천성당", "city_code": "31210", "city": "경기", "detail_city": "경기도 이천시"}
-    ]
+    "data": {
+      "bus_stop_list": [
+        {
+          "bus_stop_id": "ADB354000103",
+          "bus_stop_name": "이천1리",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "ADB354000104",
+          "bus_stop_name": "이천",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "ADB354000059",
+          "bus_stop_name": "이천",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "ADB354000060",
+          "bus_stop_name": "이천1리",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "ADB354000974",
+          "bus_stop_name": "이천동석불상",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "ADB354001029",
+          "bus_stop_name": "이천동석불상",
+          "city_code": "37040",
+          "city": "안동",
+          "detail_city": "경상북도 안동시"
+        },
+        {
+          "bus_stop_id": "BSB196630101",
+          "bus_stop_name": "이천",
+          "city_code": "21",
+          "city": "부산",
+          "detail_city": "부산광역시"
+        },
+        {
+          "bus_stop_id": "BSB196630102",
+          "bus_stop_name": "이천",
+          "city_code": "21",
+          "city": "부산",
+          "detail_city": "부산광역시"
+        },
+        {
+          "bus_stop_id": "BSB196640201",
+          "bus_stop_name": "이천",
+          "city_code": "21",
+          "city": "부산",
+          "detail_city": "부산광역시"
+        },
+        {
+          "bus_stop_id": "BSB196640202",
+          "bus_stop_name": "이천",
+          "city_code": "21",
+          "city": "부산",
+          "detail_city": "부산광역시"
+        },
+        {
+          "bus_stop_id": "CGB4949",
+          "bus_stop_name": "이천치안센터건너",
+          "city_code": "37390",
+          "city": "칠곡",
+          "detail_city": "경상북도 칠곡군"
+        },
+        {
+          "bus_stop_id": "CGB4951",
+          "bus_stop_name": "이천새마을금고건너",
+          "city_code": "37390",
+          "city": "칠곡",
+          "detail_city": "경상북도 칠곡군"
+        },
+        {
+          "bus_stop_id": "DGB7061056600",
+          "bus_stop_name": "이천동(종점)",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "DGB7061056700",
+          "bus_stop_name": "이천동",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "DGB7111008900",
+          "bus_stop_name": "이천리(시내방향)",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "DGB7111009000",
+          "bus_stop_name": "이천리(시외방향)",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "DGB7051010400",
+          "bus_stop_name": "이천새마을금고건너",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "DGB7051010500",
+          "bus_stop_name": "이천치안센터건너",
+          "city_code": "22",
+          "city": "대구",
+          "detail_city": "대구광역시"
+        },
+        {
+          "bus_stop_id": "KJB7977",
+          "bus_stop_name": "이천(리)1구",
+          "city_code": "24",
+          "city": "광주",
+          "detail_city": "광주광역시"
+        },
+        {
+          "bus_stop_id": "KJB7978",
+          "bus_stop_name": "이천(리)1구",
+          "city_code": "24",
+          "city": "광주",
+          "detail_city": "광주광역시"
+        }
+      ],
+      "has_next": true,
+      "has_previous": false,
+      "page_count": 20,
+      "current_page_count": 20,
+      "current_page_number": 0
+    }
   }
 }

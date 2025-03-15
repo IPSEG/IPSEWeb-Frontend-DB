@@ -180,8 +180,7 @@
       }
     ]
   },
-  "busroute": {
-    "basic": {
+  "busroutebasic": {
       "code": 200,
       "status": "OK",
       "message": "success",
@@ -199,6 +198,5 @@
           "route_type": "마을버스"
         }
       ]
-    }
   }
 }

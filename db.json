@@ -180,7 +180,7 @@
       }
     ]
   },
-  "bus_route_basic":{
+  "busroutebasic":{
       "code": 200,
       "status": "OK",
       "message": "success",

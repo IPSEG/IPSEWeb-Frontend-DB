@@ -179,5 +179,26 @@
         "routeNo": "802"
       }
     ]
+  },
+  "busroute":{
+    "basic":{
+      "code": 200,
+      "status": "OK",
+      "message": "success",
+      "data": [
+        {
+          "end_node_name": "목련아파트",
+          "start_node_name": "마을,봉산동",
+          "end_vehicle_time": "22:35:00",
+          "start_vehicle_time": "06:00:00",
+          "interval_time_minute": 25,
+          "interval_saturday_time_minute": 25,
+          "interval_sunday_time_minute": 40,
+          "route_id": "DJB30300004",
+          "route_no": 5,
+          "route_type": "마을버스"
+        }
+      ]
+    }
   }
 }
